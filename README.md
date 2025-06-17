@@ -70,6 +70,9 @@ Murthy Naik
 
 
 ![image](https://github.com/user-attachments/assets/ee905c20-a79c-48b8-bbd9-0b755bd6ef29) Admin Lecture Management Interface – Lecture Navigation System
+
+![image](https://github.com/user-attachments/assets/9e67b4c9-84d8-47a8-8924-a317396856a6)Lecture Records in Database (Admin/Developer View)MongoDb
+
 ![image](https://github.com/user-attachments/assets/0f4c0689-4a99-47b3-9823-762d8b9f6693): Lecture Search Interface – Lecture Navigation System      
    
 
