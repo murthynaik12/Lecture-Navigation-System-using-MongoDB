@@ -80,4 +80,9 @@ Murthy Naik
 ![image](https://github.com/user-attachments/assets/7160b075-3de7-4515-9f33-f963068bbd6a)login page
 
 
+![image](https://github.com/user-attachments/assets/ee905c20-a79c-48b8-bbd9-0b755bd6ef29) Admin Lecture Management Interface – Lecture Navigation System
+![image](https://github.com/user-attachments/assets/0f4c0689-4a99-47b3-9823-762d8b9f6693): Lecture Search Interface – Lecture Navigation System      
+   
+
+
 
