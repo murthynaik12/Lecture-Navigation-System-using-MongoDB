@@ -29,19 +29,8 @@ A web-based Lecture Navigation System built with **Next.js** and **MongoDB**, de
 
 ## 📁 Folder Structure
 
-/Lecture-Navigation-System/
-├── app/ # Next.js app routes
-├── components/ # Reusable UI components
-├── context/ # React context for state management
-├── hooks/ # Custom React hooks
-├── lib/ # Database helpers (e.g., MongoDB connection)
-├── public/ # Static assets
-├── styles/ # Tailwind/global CSS
-├── pages/ or app/ # Pages or app router (Next.js)
-├── .env.local # Environment variables (not pushed)
-├── package.json # Project metadata and scripts
-├── tailwind.config.ts # Tailwind config
-└── next.config.js # Next.js config
+
+![image](https://github.com/user-attachments/assets/d1db699f-5fcf-451a-bc35-d75424c15f0c)
 
 
 ---
